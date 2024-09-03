@@ -1,0 +1,16 @@
+d:\documents\visual studio 2015\Projects\CorpEBMonthlyFunction\CorpEBMonthlyFunction\bin\Debug\CorpEBMonthlyFunction.exe.config
+d:\documents\visual studio 2015\Projects\CorpEBMonthlyFunction\CorpEBMonthlyFunction\bin\Debug\NLog.config
+d:\documents\visual studio 2015\Projects\CorpEBMonthlyFunction\CorpEBMonthlyFunction\bin\Debug\CorpEBMonthlyFunction.exe
+d:\documents\visual studio 2015\Projects\CorpEBMonthlyFunction\CorpEBMonthlyFunction\bin\Debug\CorpEBMonthlyFunction.pdb
+d:\documents\visual studio 2015\Projects\CorpEBMonthlyFunction\CorpEBMonthlyFunction\bin\Debug\NLog.dll
+d:\documents\visual studio 2015\Projects\CorpEBMonthlyFunction\CorpEBMonthlyFunction\bin\Debug\NLog.xml
+d:\documents\visual studio 2015\Projects\CorpEBMonthlyFunction\CorpEBMonthlyFunction\obj\Debug\CorpEBMonthlyFunction.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\CorpEBMonthlyFunction\CorpEBMonthlyFunction\obj\Debug\CorpEBMonthlyFunction.exe
+d:\documents\visual studio 2015\Projects\CorpEBMonthlyFunction\CorpEBMonthlyFunction\obj\Debug\CorpEBMonthlyFunction.pdb
+d:\documents\visual studio 2015\Projects\CorpEBMonthlyFunction\CorpEBMonthlyFunction\bin\Debug\ClosedXML.dll
+d:\documents\visual studio 2015\Projects\CorpEBMonthlyFunction\CorpEBMonthlyFunction\bin\Debug\DocumentFormat.OpenXml.dll
+d:\documents\visual studio 2015\Projects\CorpEBMonthlyFunction\CorpEBMonthlyFunction\bin\Debug\ExcelNumberFormat.dll
+d:\documents\visual studio 2015\Projects\CorpEBMonthlyFunction\CorpEBMonthlyFunction\bin\Debug\ClosedXML.pdb
+d:\documents\visual studio 2015\Projects\CorpEBMonthlyFunction\CorpEBMonthlyFunction\bin\Debug\ClosedXML.xml
+d:\documents\visual studio 2015\Projects\CorpEBMonthlyFunction\CorpEBMonthlyFunction\bin\Debug\DocumentFormat.OpenXml.xml
+d:\documents\visual studio 2015\Projects\CorpEBMonthlyFunction\CorpEBMonthlyFunction\bin\Debug\ExcelNumberFormat.xml
